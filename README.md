@@ -17,7 +17,7 @@
 ## GitHub Stats That Make Me Look Busier Than I Am:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dung&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?dunihiz=dung&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dung&theme=tokyonight" />
   <br/>
