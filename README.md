@@ -17,27 +17,27 @@
 ## GitHub Stats That Make Me Look Busier Than I Am:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?dunihiz=dung&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dunihiz&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dung&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dunihiz&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunihiz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## Some Fake Projects That Look Like I Know What I'm Doing:
 
-- **[cloneflix](https://github.com/dung/cloneflix)** - A Netflix clone that doesn't stream anything but looks pretty.
-- **[toxic-bot](https://github.com/dung/toxic-bot)** - A chatbot trained on Reddit comments, now banned from 12 servers.
-- **[weather-but-sexy](https://github.com/dung/weather-but-sexy)** - Weather app with NSFW design just because I can.
-- **[portfolio](https://github.com/dung/portfolio)** - The site that got me a job I wasn't qualified for.
+- **[cloneflix](https://github.com/dunihiz/cloneflix)** - A Netflix clone that doesn't stream anything but looks pretty.
+- **[toxic-bot](https://github.com/dunihiz/toxic-bot)** - A chatbot trained on Reddit comments, now banned from 12 servers.
+- **[weather-but-sexy](https://github.com/dunihiz/weather-but-sexy)** - Weather app with NSFW design just because I can.
+- **[portfolio](https://github.com/dunihiz/portfolio)** - The site that got me a job I wasn't qualified for.
 
 ---
 
 ## Let's Connect Before I Burn Out Again:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dunihiz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jos.ihipdz@gmail.com)
 
 ---
